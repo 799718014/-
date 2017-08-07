@@ -66,6 +66,6 @@ $teacher->Dump($A);
 $teacher->Dump($B);
 $teacher->Dump($C);
 $teacher->Dump('子类4'); // 访问了一个不存在的控制器，抛出404
-echo "hello world";
+
 
 
